@@ -1,11 +1,12 @@
-ForgeBoard – Auth Milestone (Status & Plan)
-What’s implemented so far
-✅ API (ASP.NET Core Web API): POST /auth/register, POST /auth/login, POST /auth/forgot-password, POST /auth/reset-password.
+# ForgeBoard — Agile Board & Issue Tracker
 
-✅ JWT issuance for login/registration.
+> **Private repo:** this repository contains documentation, screenshots and demo materials only. The source code is not public yet.
 
-✅ SMTP wired for password reset (email is checked; if it exists, send reset token — not the password).
-
-✅ Custom Users table (separate from Identity) – registration also creates a row here.
-
-✅ Frontend (React, .tsx): UI for all auth flows (Login, Register, Forgot, Reset) — screenshots to be added.
+## Current Status (Auth milestone)
+- ✅ API endpoints: **/auth/register**, **/auth/login**, **/auth/forgot-password**, **/auth/reset-password**
+- ✅ JWT issuance
+- ✅ SMTP wired for password reset (email token, no password)
+- ✅ React (.tsx) UI: Login / Register / Forgot / Reset
+- ✅ Domain `Users` table mapped to Identity (1:1)
+- 🧩 On sign-up: assign **Guest** role (no access until elevated)
+- 🧩 Refresh tokens (hashed) + rotation & reuse detection
