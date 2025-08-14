@@ -15,21 +15,75 @@
 
 
 
-## 📸 Screenshots (Auth)
+<h3>📸 Auth — Screens</h3>
+<p><em>Klikni na sliku za full-size.</em></p>
 
-> Demo podaci, klikni na sliku za full-size.
+<table>
+  <thead>
+    <tr>
+      <th align="center">Desktop</th>
+      <th align="center">Mobile</th>
+    </tr>
+  </thead>
 
-**Login**
-[<img src="media/screenshots/auth/login-desktop.png" width="520" alt="Login — Desktop" />](media/screenshots/auth/login-desktop.png)
-[<img src="media/screenshots/auth/login-mobile.png"  width="220" alt="Login — Mobile"  />](media/screenshots/auth/login-mobile.png)
+  <tbody>
+    <!-- LOGIN -->
+    <tr>
+      <td align="center">
+        <a href="media/screenshots/auth/login-desktop.png">
+          <img src="media/screenshots/auth/login-desktop.png" width="520" alt="Login — Desktop" />
+        </a>
+        <br/><sub><b>Login</b> — Desktop</sub>
+      </td>
+      <td align="center">
+        <a href="media/screenshots/auth/login-mobile.png">
+          <img src="media/screenshots/auth/login-mobile.png" width="240" alt="Login — Mobile" />
+        </a>
+        <br/><sub><b>Login</b> — Mobile</sub>
+      </td>
+    </tr>
 
-**Register**
-[<img src="media/screenshots/auth/register-desktop.png" width="520" alt="Register — Desktop" />](media/screenshots/auth/register-desktop.png)
-[<img src="media/screenshots/auth/register-mobile.png"  width="220" alt="Register — Mobile"  />](media/screenshots/auth/register-mobile.png)
+    <!-- REGISTER -->
+    <tr>
+      <td align="center">
+        <a href="media/screenshots/auth/register-desktop.png">
+          <img src="media/screenshots/auth/register-desktop.png" width="520" alt="Register — Desktop" />
+        </a>
+        <br/><sub><b>Register</b> — Desktop</sub>
+      </td>
+      <td align="center">
+        <a href="media/screenshots/auth/register-mobile.png">
+          <img src="media/screenshots/auth/register-mobile.png" width="240" alt="Register — Mobile" />
+        </a>
+        <br/><sub><b>Register</b> — Mobile</sub>
+      </td>
+    </tr>
 
-**Forgot / Reset**
-[<img src="media/screenshots/auth/forgot-desktop.png" width="520" alt="Forgot password — Desktop" />](media/screenshots/auth/forgot-desktop.png)
-[<img src="media/screenshots/auth/reset-desktop.png"  width="520" alt="Reset password — Desktop"  />](media/screenshots/auth/reset-desktop.png)
+    <!-- FORGOT / RESET (oba su desktop, rasporedjena lijevo/desno) -->
+    <tr>
+      <td align="center">
+        <a href="media/screenshots/auth/forgot-desktop.png">
+          <img src="media/screenshots/auth/forgot-desktop.png" width="520" alt="Forgot password — Desktop" />
+        </a>
+        <br/><sub><b>Forgot password</b> — Desktop</sub>
+      </td>
+      <td align="center">
+        <a href="media/screenshots/auth/reset-desktop.png">
+          <img src="media/screenshots/auth/reset-desktop.png" width="240" alt="Reset password — Desktop" />
+        </a>
+        <br/><sub><b>Reset password</b> — Desktop</sub>
+      </td>
+    </tr>
 
-**Reset email (token)**
-[<img src="media/screenshots/auth/reset-email.png" width="520" alt="Reset email with token" />](media/screenshots/auth/reset-email.png)
+    <!-- EMAIL TOKEN (puna širina) -->
+    <tr>
+      <td align="center" colspan="2">
+        <a href="media/screenshots/auth/reset-email.png">
+          <img src="media/screenshots/auth/reset-email.png" width="520" alt="Reset email (token)" />
+        </a>
+        <br/><sub><b>Reset email</b> — token preview</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
