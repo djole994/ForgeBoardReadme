@@ -16,7 +16,6 @@
 
 
 <h3>📸 Auth — Screens</h3>
-<p><em>Klikni na sliku za full-size.</em></p>
 
 <table>
   <thead>
@@ -43,7 +42,7 @@
       </td>
     </tr>
 
-    <!-- REGISTER -->
+
     <tr>
       <td align="center">
         <a href="media/screenshots/auth/register-desktop.png">
