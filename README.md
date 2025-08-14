@@ -79,7 +79,6 @@
 <thead>
 <tr>
 <th align="center">Forgot password — Desktop</th>
-<th align="center">Reset password — Desktop</th>
 </tr>
 </thead>
 <tbody>
@@ -87,11 +86,6 @@
 <td align="center">
 <a href="media/screenshots/auth/forgot-desktop.png">
 <img src="media/screenshots/auth/forgot-desktop.png" width="480" alt="Forgot password — Desktop">
-</a>
-</td>
-<td align="center">
-<a href="media/screenshots/auth/reset-desktop.png">
-<img src="media/screenshots/auth/reset-desktop.png" width="480" alt="Reset password — Desktop">
 </a>
 </td>
 </tr>
