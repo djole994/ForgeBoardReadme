@@ -16,61 +16,92 @@
 
 
 <h3>📸 Auth — Screens</h3>
+<p><em>Klikni na sliku za full-size.</em></p>
 
+<!-- LOGIN -->
 <table>
   <thead>
     <tr>
-      <th align="center">Desktop</th>
-      <th align="center">Mobile</th>
+      <th align="center">Login — Desktop</th>
+      <th align="center">Login — Mobile</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
         <a href="media/screenshots/auth/login-desktop.png">
-          <img src="media/screenshots/auth/login-desktop.png" width="520" alt="Login — Desktop" />
-        </a><br/><sub><b>Login</b> — Desktop</sub>
+          <img src="media/screenshots/auth/login-desktop.png" width="520" alt="Login — Desktop">
+        </a>
       </td>
       <td align="center">
         <a href="media/screenshots/auth/login-mobile.png">
-          <img src="media/screenshots/auth/login-mobile.png" width="240" alt="Login — Mobile" />
-        </a><br/><sub><b>Login</b> — Mobile</sub>
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center">
-        <a href="media/screenshots/auth/register-desktop.png">
-          <img src="media/screenshots/auth/register-desktop.png" width="520" alt="Register — Desktop" />
-        </a><br/><sub><b>Register</b> — Desktop</sub>
-      </td>
-      <td align="center">
-        <a href="media/screenshots/auth/register-mobile.png">
-          <img src="media/screenshots/auth/register-mobile.png" width="240" alt="Register — Mobile" />
-        </a><br/><sub><b>Register</b> — Mobile</sub>
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center">
-        <a href="media/screenshots/auth/forgot-desktop.png">
-          <img src="media/screenshots/auth/forgot-desktop.png" width="520" alt="Forgot password — Desktop" />
-        </a><br/><sub><b>Forgot password</b> — Desktop</sub>
-      </td>
-      <td align="center">
-        <a href="media/screenshots/auth/reset-desktop.png">
-          <img src="media/screenshots/auth/reset-desktop.png" width="240" alt="Reset password — Desktop" />
-        </a><br/><sub><b>Reset password</b> — Desktop</sub>
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center" colspan="2">
-        <a href="media/screenshots/auth/reset-email.png">
-          <img src="media/screenshots/auth/reset-email.png" width="520" alt="Reset email (token)" />
-        </a><br/><sub><b>Reset email</b> — token preview</sub>
+          <img src="media/screenshots/auth/login-mobile.png" width="240" alt="Login — Mobile">
+        </a>
       </td>
     </tr>
   </tbody>
 </table>
+
+<br/>
+
+<!-- REGISTER -->
+<table>
+  <thead>
+    <tr>
+      <th align="center">Register — Desktop</th>
+      <th align="center">Register — Mobile</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="media/screenshots/auth/register-desktop.png">
+          <img src="media/screenshots/auth/register-desktop.png" width="520" alt="Register — Desktop">
+        </a>
+      </td>
+      <td align="center">
+        <a href="media/screenshots/auth/register-mobile.png">
+          <img src="media/screenshots/auth/register-mobile.png" width="240" alt="Register — Mobile">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<!-- FORGOT / RESET (oba desktop) -->
+<table>
+  <thead>
+    <tr>
+      <th align="center">Forgot password — Desktop</th>
+      <th align="center">Reset password — Desktop</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="media/screenshots/auth/forgot-desktop.png">
+          <img src="media/screenshots/auth/forgot-desktop.png" width="480" alt="Forgot password — Desktop">
+        </a>
+      </td>
+      <td align="center">
+        <a href="media/screenshots/auth/reset-desktop.png">
+          <img src="media/screenshots/auth/reset-desktop.png" width="480" alt="Reset password — Desktop">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<!-- EMAIL TOKEN (puna širina) -->
+<p align="center">
+  <a href="media/screenshots/auth/reset-email.png">
+    <img src="media/screenshots/auth/reset-email.png" width="520" alt="Reset email (token)">
+  </a>
+  <br/>
+  <sub><b>Reset email</b> — token preview</sub>
+</p>
 
