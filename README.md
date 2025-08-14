@@ -15,12 +15,15 @@
 
 
 
-<!-- prazna linija iznad ovog komentara u README-u -->
-
 <details>
 <summary><b>📸 Screenshots — klikni za prikaz</b></summary>
 
-<h4>🔐 Auth screens</h4>
+<br/>
+
+<details>
+<summary><b>🔐 Auth screens — klikni za prikaz</b></summary>
+
+<br/>
 
 <table>
 <thead>
@@ -103,6 +106,11 @@
 </a><br/>
 <sub><b>Reset email</b> — token preview</sub>
 </p>
+
+</details>
+
+</details>
+
 
 </details>
 
