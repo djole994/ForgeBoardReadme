@@ -35,13 +35,13 @@
 <tbody>
 <tr>
 <td align="center">
-<a href="media/screenshots/auth/login-desktop.png">
-<img src="media/screenshots/auth/login-desktop.png" width="520" alt="Login — Desktop">
+<a href="media/screenshots/auth/01-login-desktop.png">
+<img src="media/screenshots/auth/01-login-desktop.png" width="520" alt="Login — Desktop">
 </a>
 </td>
 <td align="center">
-<a href="media/screenshots/auth/login-mobile.png">
-<img src="media/screenshots/auth/login-mobile.png" width="240" alt="Login — Mobile">
+<a href="media/screenshots/auth/02-login-mobile.png">
+<img src="media/screenshots/auth/02-login-mobile.png" width="240" alt="Login — Mobile">
 </a>
 </td>
 </tr>
@@ -60,13 +60,13 @@
 <tbody>
 <tr>
 <td align="center">
-<a href="media/screenshots/auth/register-desktop.png">
-<img src="media/screenshots/auth/register-desktop.png" width="520" alt="Register — Desktop">
+<a href="media/screenshots/auth/03-register-desktop.png">
+<img src="media/screenshots/auth/03-register-desktop.png" width="520" alt="Register — Desktop">
 </a>
 </td>
 <td align="center">
-<a href="media/screenshots/auth/register-mobile.png">
-<img src="media/screenshots/auth/register-mobile.png" width="240" alt="Register — Mobile">
+<a href="media/screenshots/auth/04-register-mobile.png">
+<img src="media/screenshots/auth/04-register-mobile.png" width="240" alt="Register — Mobile">
 </a>
 </td>
 </tr>
@@ -84,8 +84,8 @@
 <tbody>
 <tr>
 <td align="center">
-<a href="media/screenshots/auth/forgot-desktop.png">
-<img src="media/screenshots/auth/forgot-desktop.png" width="480" alt="Forgot password — Desktop">
+<a href="media/screenshots/auth/05-forgot-desktop.png">
+<img src="media/screenshots/auth/05-forgot-desktop.png" width="480" alt="Forgot password — Desktop">
 </a>
 </td>
 </tr>
@@ -95,8 +95,8 @@
 <br/>
 
 <p align="center">
-<a href="media/screenshots/auth/reset-email.png">
-<img src="media/screenshots/auth/reset-email.png" width="520" alt="Reset email (token)">
+<a href="media/screenshots/auth/06-reset-email.png">
+<img src="media/screenshots/auth/06-reset-email.png" width="520" alt="Reset email (token)">
 </a><br/>
 <sub><b>Reset email</b> — token preview</sub>
 </p>
